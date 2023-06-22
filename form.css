@@ -1,0 +1,31 @@
+.formbold-form-input {
+    width: 200%;
+    padding-bottom: none;
+    border: none;
+    border-bottom: 5px solid #DDE3EC;
+    font-weight: 500;
+    font-size: 16px;
+    color: #07074D;
+    outline: none;
+  }
+  .formbold-form-label {
+    color: #07074D;
+    font-size: 18px;
+    line-break: auto;
+    display: block;
+    margin-bottom: 18px;
+  }
+  .form-line{
+    border: none;
+    border-bottom: 5px solid #DDE3EC;
+    margin-top: -30px;
+   
+  }
+  .grad{
+    font-weight: 500;
+    font-size: 16px;
+  }
+.btn{
+    align-self: center;
+    justify-content: center;
+  }
