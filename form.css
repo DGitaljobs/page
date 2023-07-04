@@ -33,7 +33,12 @@
     bottom: 45px;
     z-index: 99;
 } */
-button{
+/* button{
   padding-right: 500px;
 
 }
+@media screen and (min-width: 400px) {
+  .form-group1 { margin-top: 5000px;
+    
+  }
+} */
